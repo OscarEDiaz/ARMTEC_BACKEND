@@ -1,0 +1,15 @@
+# Archivos y directorios generados por Python y Flask
+__pycache__/
+venv/
+
+# Archivos generados por sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos y directorios específicos de Flask y Python
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+instance/
